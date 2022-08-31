@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **open-source computational mechanics projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/faisal-bhuiyan?tab=repositories](https://github.com/faisal-bhuiyan?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/faisal-bhuiyan?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.faisalhbhuiyan.com](https://www.faisalhbhuiyan.com)
+- 📝 I regularly write articles on [my website](https://www.faisalhbhuiyan.com)
 
 - 💬 Ask me about **Finite element analysis (FEA), composite materials, additive manufacturing, and computational mechanics in general**
 
 - 📫 How to reach me **faisalhbhuiyan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/faisalhbhuiyan/](https://www.linkedin.com/in/faisalhbhuiyan/)
+- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/faisalhbhuiyan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
