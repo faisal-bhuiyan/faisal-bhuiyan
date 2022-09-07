@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-bhuiyan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisal-bhuiyan" alt="faisal-bhuiyan" /></a> </p>
-
 - :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en)
 
 - 🌱 I’m currently learning **object-oriented design using C++ and Python**
