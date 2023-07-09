@@ -5,7 +5,7 @@
 
 - :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en)
 
-- 🌱 I’m currently learning **object-oriented design using C++ and Python, scientific and parallel programming, numerical solution of mechanics-based problems**
+- 🌱 My SW dev focus is on **object-oriented design using C++ and Python, scientific and parallel programming, numerical solution of mechanics-based problems**
 
 - 👯 I’m looking to collaborate on **open-source computational mechanics projects**
 
