@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisal-bhuiyan&show_icons=true&locale=en" alt="faisal-bhuiyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-bhuiyan&theme=dark&exclude_days=Sun%2CSat" alt="faisal-bhuiyan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=faisal-bhuiyan&theme=dark" alt="faisal-bhuiyan" /></p>
