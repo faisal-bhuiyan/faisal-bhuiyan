@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faisal Bhuiyan</h1>
-<h3 align="center">I am based in Overland Park, KS, USA</h3>
+<h3 align="center">I am based in Overland Park, KS, USA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-bhuiyan" /> </p>
 
-- :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en)
+- :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en) and currently working at the National Renewable Energy Lab (NREL) as a scientific SW developer
 
 - 🌱 My SW dev focus is on **object-oriented design using C++ and Python, scientific and parallel programming, numerical solution of mechanics-based problems**
 
