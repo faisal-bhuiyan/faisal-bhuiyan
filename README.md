@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-bhuiyan" /> </p>
 
-- :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en) and currently working at the National Renewable Energy Lab (NREL) as a scientific SW developer
+- :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en), currently working at the NREL as [scientific SW developer for a wind turbine structural dynamics code](https://github.com/Exawind/openturbine)
 
 - 🌱 My SW dev focus is on **object-oriented design using C++ and Python, scientific and parallel programming, numerical solution of mechanics-based problems**
 
