@@ -6,7 +6,7 @@
 
 - 💼 Currently, I am working at [NREL](https://www.nrel.gov/) as a scientific software developer, focusing on wind turbine structural dynamics code, which is available on [GitHub](https://github.com/Exawind/openturbine)
 
-- 🌱 My software development expertise revolves around **object-oriented design using C++ and Python, scientific and parallel programming, and numerical solutions for mechanics-based problems**
+- 🌱 My software development expertise revolves around object-oriented design using C++ and Python, scientific and parallel programming, and numerical solutions for mechanics-based problems
 
 - 👯 I'm enthusiastic about collaborating on open-source computational mechanics projects and contributing to the community
 
@@ -14,9 +14,9 @@
 
 - 📝 I regularly share my insights and knowledge through articles on my [personal website](https://www.faisalhbhuiyan.com)
 
-- 💬 If you have any questions related to _Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics_ in general, don't hesitate to ask me!
+- 💬 If you have any questions related to Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics, don't hesitate to ask me!
 
-- 📫 You can reach me via email at faisal[dot]mecha@gmail.com
+- 📫 You can reach me via email at `faisal[dot]mecha@gmail.com`
 
 - 📄 To learn more about my professional experiences and background, visit my [LinkedIn profile](https://www.linkedin.com/in/faisalhbhuiyan/)
 
