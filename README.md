@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Faisal Bhuiyan</h1>
-<h3 align="center">I am based in Overland Park, KS, USA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-bhuiyan" /> </p>
 
-- :eyes: I’m interested in [computational mechanics based problems](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en), currently working at the NREL as [scientific SW developer for a wind turbine structural dynamics code](https://github.com/Exawind/openturbine)
+- :eyes: I have a strong interest in solving computational mechanics problems. You can find my academic contributions in this field on [Google Scholar](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en&authuser=1)
 
-- 🌱 My SW dev focus is on **object-oriented design using C++ and Python, scientific and parallel programming, numerical solution of mechanics-based problems**
+- 💼 Currently, I am working at [NREL](https://www.nrel.gov/) as a scientific software developer, focusing on wind turbine structural dynamics code, which is available on [GitHub](https://github.com/Exawind/openturbine)
 
-- 👯 I’m looking to collaborate on **open-source computational mechanics projects**
+- 🌱 My software development expertise revolves around **object-oriented design using C++ and Python, scientific and parallel programming, and numerical solutions for mechanics-based problems**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/faisal-bhuiyan?tab=repositories)
+- 👯 I'm enthusiastic about collaborating on open-source computational mechanics projects and contributing to the community
 
-- 📝 I regularly write articles on [my website](https://www.faisalhbhuiyan.com)
+- 👨‍💻 Feel free to explore my projects on [GitHub](https://github.com/faisal-bhuiyan?tab=repositories)
 
-- 💬 Ask me about **Finite element analysis (FEA), composite materials, additive manufacturing, and computational mechanics in general**
+- 📝 I regularly share my insights and knowledge through articles on my [personal website](https://www.faisalhbhuiyan.com)
 
-- 📫 How to reach me **faisal.mecha@gmail.com**
+- 💬 If you have any questions related to _Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics_ in general, don't hesitate to ask me!
 
-- 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/faisalhbhuiyan/)
+- 📫 You can reach me via email at faisal[dot]mecha@gmail.com
+
+- 📄 To learn more about my professional experiences and background, visit my [LinkedIn profile](https://www.linkedin.com/in/faisalhbhuiyan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
