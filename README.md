@@ -14,7 +14,7 @@
 
 - 📝 I regularly share my insights and knowledge through articles on my [personal website](https://www.faisalhbhuiyan.com)
 
-- 💬 If you have any questions related to Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics, don't hesitate to ask me!
+- 💬 If you have any questions related to Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics, don't hesitate to ask me
 
 - 📫 You can reach me via email at `faisal[dot]mecha@gmail.com`
 
