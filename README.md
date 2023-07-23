@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisal-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="faisal-bhuiyan" /> </p>
 
-- :eyes: I have a strong interest in solving computational mechanics problems. You can find my academic contributions in this field on [Google Scholar](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en&authuser=1)
+- :eyes: I have a strong interest in solving computational mechanics problems - you can find my academic contributions in this field on [Google Scholar](https://scholar.google.com/citations?user=v7zm7nYAAAAJ&hl=en&authuser=1)
 
 - 💼 Currently, I am working at [NREL](https://www.nrel.gov/) as a scientific software developer, focusing on wind turbine structural dynamics code, which is available on [GitHub](https://github.com/Exawind/openturbine)
 
