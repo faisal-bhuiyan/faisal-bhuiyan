@@ -16,7 +16,7 @@
 
 - 💬 If you have any questions related to Finite Element Analysis (FEA), composite materials, additive manufacturing, or computational mechanics, don't hesitate to ask me
 
-- 📫 You can reach me via email at `faisal[dot]mecha@gmail.com`
+- 📫 You can reach me via email at `faisal[dot]mecha[at]gmail.com`
 
 - 📄 To learn more about my professional experiences and background, visit my [LinkedIn profile](https://www.linkedin.com/in/faisalhbhuiyan/)
 
